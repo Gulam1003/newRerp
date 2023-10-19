@@ -10,4 +10,5 @@ with open("demofile.text") as f:
     print(f.tell())
     print(f.seek(3))
     print(f.tell())
+    print("my name is gulam ansari")
     f.close()
